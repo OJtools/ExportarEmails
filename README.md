@@ -4,6 +4,8 @@ Suplemento para o Outlook que converte o email e seus anexos para um unico PDF
 
 Microsoft Outlook Add-in Exportar Emails para PDF
 
+ATENÇÃO A RESOLUÇÃO MINIMA PARA O CORRECTO FUNCIONAMENTO DO SUPLEMENTO É 1600*900
+
 INSTALAÇÃO
 1.	Descompactar o ficheiro ExportarEmails.zip para uma pasta no computador.
 2.	Executar o ficheiro ExportarEmails.vsto
